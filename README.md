@@ -18,3 +18,5 @@ Above is the base window, for reaching the LinkedIn web page we need a specific 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103694779-322d6a00-4fa4-11eb-9127-50b88928d0af.png)
 
+Running the code we are getting the following window where we should complete our personal information. In order to keep my personal information personal I created a txt file where I wrote in two lines my email and my password if you are not planning to share your code you can define two variables that will contain your personal information.
+
