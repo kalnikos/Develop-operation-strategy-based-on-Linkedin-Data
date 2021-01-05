@@ -10,4 +10,7 @@ After that step we are ready to open an editor, I used Jupyter notebook, a platf
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103679154-2aae9680-4f8d-11eb-9a7b-3ae0584f8f10.png)
 
+Now let’s open a browser using the web driver, I will work on Chrome platform but you can use whatever platform you prefer, notice that it’s essential to keep the  following window always open, this window will be the base of our next searching steps.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103686182-196a8780-4f97-11eb-8864-a31d2e4c36d6.png)
 
