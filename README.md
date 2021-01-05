@@ -33,6 +33,13 @@ So now we are in the initial LinkedIn page and we want to parse data based on a 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103703411-31023a00-4fb0-11eb-8c0f-fe9cff784650.png)
 
-     
+So, the following code could be adjustable and everyone could be able to search for companies in specific sector’s. As I said, if you are interested in something else change the link and follow the next steps.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103704090-5e9bb300-4fb1-11eb-81a1-c1dcb03c23ba.png)
+
+Notice that I used the Time Python module and the sleep command, don’t set aside this command and give some time to the browser to load the page in order to parse the page source code properly.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103704801-8d665900-4fb2-11eb-9f5c-b515455be378.png)
+
   
 
