@@ -29,6 +29,9 @@ And here is the code that I used to login:
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103701301-702f8b80-4fae-11eb-91be-7c7dd3ad281e.png)
 
+So now we are in the initial LinkedIn page and we want to parse data based on a certain search. We could implement this step with different approaches, I think the easiest is to determine the link of the page that we are looking for, otherwise we have to use the Selenium library click in the search box determine our query after that we could also specify different filters in order to earn the information that we need. Definitely, using the direct link we avoid many lines of code.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103703411-31023a00-4fb0-11eb-8c0f-fe9cff784650.png)
 
      
   
