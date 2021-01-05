@@ -12,7 +12,7 @@ After that step we are ready to open an editor, I used Jupyter notebook, a platf
 
 Now let’s open a browser using the web driver, I will work on Chrome platform but you can use whatever platform you prefer, notice that it’s essential to keep the  following window always open, this window will be the base of our next searching steps.
 
-![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103686182-196a8780-4f97-11eb-8864-a31d2e4c36d6.png)
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103694310-7704d100-4fa3-11eb-83ef-cfd2b881aa05.png)
 
 Above is the base window, for reaching the LinkedIn web page we need a specific URL below is the URL and the code that I used.
 
