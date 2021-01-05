@@ -22,8 +22,8 @@ Running the code we are getting the following window where we should complete ou
 
 | Kerne_Short  | Kyto_Short     | 
 | :---         |     :---:      |  
-|  ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103695876-09a66f80-4fa6-11eb-9fcf-f90246c7e753.png)
-  | ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103697017-fc8a8000-4fa7-11eb-8535-2d3a84c579a3.png)
+|  ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103695876-09a66f80-4fa6-11eb-9fcf-f90246c7e753.png) |
+| ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103697017-fc8a8000-4fa7-11eb-8535-2d3a84c579a3.png)
      
   
 
