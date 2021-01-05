@@ -20,11 +20,8 @@ Above is the base window, for reaching the LinkedIn web page we need a specific 
 
 Running the code we are getting the following window where we should complete our personal information. In order to keep my personal information personal I created a txt file where I wrote in two lines my email and my password if you are not planning to share your code you can define two variables that will contain your personal information.
 
+[Doc2.docx](https://github.com/kalnikos/Develop-operation-strategy-based-on-Linkedin-Data/files/5772634/Doc2.docx)
 
-| Login page  | Submit     | 
-| :---         |     :---:      |      
-| ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103699197-41fc7c80-4fab-11eb-8930-290f0d3e6fac.png)
-|  ![1](https://user-images.githubusercontent.com/66875726/103698889-b8e54580-4faa-11eb-8b39-2bd02e6081b1.png) |
 
      
   
