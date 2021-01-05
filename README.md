@@ -14,3 +14,5 @@ Now let’s open a browser using the web driver, I will work on Chrome platform 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103686182-196a8780-4f97-11eb-8864-a31d2e4c36d6.png)
 
+Above is the base window, for reaching the LinkedIn web page we need a specific URL below is the URL and the code that I used.
+
