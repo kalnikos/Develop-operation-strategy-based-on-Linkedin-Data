@@ -22,6 +22,9 @@ Running the code we are getting the following window where we should complete ou
 
 |![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103699197-41fc7c80-4fab-11eb-8930-290f0d3e6fac.png) | ![1](https://user-images.githubusercontent.com/66875726/103698889-b8e54580-4faa-11eb-8b39-2bd02e6081b1.png) |
 
+| KNN  | Decision Tree     | 
+| :---         |     :---:      |      
+| ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103699197-41fc7c80-4fab-11eb-8930-290f0d3e6fac.png)  |  ![1](https://user-images.githubusercontent.com/66875726/103698889-b8e54580-4faa-11eb-8b39-2bd02e6081b1.png) |
 
      
   
