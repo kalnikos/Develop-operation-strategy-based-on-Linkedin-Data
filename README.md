@@ -27,6 +27,8 @@ Running the code we are getting the following window where we should complete ou
 
 And here is the code that I used to login:
 
+
+
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103701301-702f8b80-4fae-11eb-91be-7c7dd3ad281e.png)
 
 So now we are in the initial LinkedIn page and we want to parse data based on a certain search. We could implement this step with different approaches, I think the easiest is to determine the link of the page that we are looking for, otherwise we have to use the Selenium library click in the search box determine our query after that we could also specify different filters in order to earn the information that we need. Definitely, using the direct link we avoid many lines of code.
@@ -41,5 +43,8 @@ Notice that I used the Time Python module and the sleep command, don’t set asi
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103704801-8d665900-4fb2-11eb-9f5c-b515455be378.png)
 
-  
+We are in the page that contains the information that we need to parse, in this step is necessary to know some html structure in order to inspect the elements that we need. For parsing elements I used the Beautiful soup library, we are in a static page now and we can detect the elements doing a left mouse click.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103705829-690b7c00-4fb4-11eb-907c-aee6c4bcf9b7.png)
+
 
