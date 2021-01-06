@@ -47,4 +47,4 @@ We are in the page that contains the information that we need to parse, in this 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103705829-690b7c00-4fb4-11eb-907c-aee6c4bcf9b7.png)
 
-
+After inspecting the page and determining the elements that we need, it’s time to develop a scraping function. This is the part that scared me when I started with the web scraping but the easiest way to reach what you need from a page is to find a big element. For instance a class which contains a list of objects that you need and then start to break down the list into smaller element such as, tittle, description, number of followers, etc. Let’s jump to the point and see the code: 
