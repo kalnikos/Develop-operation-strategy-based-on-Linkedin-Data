@@ -51,3 +51,8 @@ After inspecting the page and determining the elements that we need, it’s time
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103811256-51400080-5065-11eb-8079-525ab637f485.png)
 
+We are almost done with the scraping process, I say almost because we also have to iterate through all the available searching pages. In my case the pages are 10 and in order to scrape every page I figured out that I could accomplish this by changing the URL by adding a number at the end of it as the following code.
+
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103862638-25099b80-50c8-11eb-93e3-65e8a5e76c7c.png)
+
+
