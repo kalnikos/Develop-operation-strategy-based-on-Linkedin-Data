@@ -57,5 +57,7 @@ We are almost done with the scraping process, I say almost because we also have 
 
 As you can see I found the list that contains the available pages of my search, after that I found the total number of the elements of the list. Definitely, I’m not saying that is the optimum solution, maybe you can find out something more efficient to parse data from all the pages; furthermore you have also to consider that web pages are having different structure and occasionally it’s essential to be creative. Now we have the parts that we need to iterate through all the pages, so let’s finish the scraping by adding everything to a list.
 
+![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103865245-921f3000-50cc-11eb-892d-9fecc3a8d707.png)
+
 
 
