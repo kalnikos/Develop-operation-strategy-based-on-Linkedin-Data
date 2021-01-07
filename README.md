@@ -59,5 +59,7 @@ As you can see I found the list that contains the available pages of my search, 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103865245-921f3000-50cc-11eb-892d-9fecc3a8d707.png)
 
+Lastly, we may also convert the list to a csv file, named the columns as we prefer and we are ready for starting to analyse our data. 
+
 
 
