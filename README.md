@@ -55,5 +55,7 @@ We are almost done with the scraping process, I say almost because we also have 
 
 ![Χωρίς τίτλο](https://user-images.githubusercontent.com/66875726/103862638-25099b80-50c8-11eb-93e3-65e8a5e76c7c.png)
 
-As you can see I found the list that contains the number of the available pages of my search and aiming to find the length of it. Definitely, I’m not saying that is the optimum solution, maybe you can find out something more efficient to parse data from all the pages; furthermore you have also to consider that web pages are having different structure and occasionally it’s essential to be creative.
+As you can see I found the list that contains the available pages of my search, after that I found the total number of the elements of the list. Definitely, I’m not saying that is the optimum solution, maybe you can find out something more efficient to parse data from all the pages; furthermore you have also to consider that web pages are having different structure and occasionally it’s essential to be creative. Now we have the parts that we need to iterate through all the pages, so let’s finish the scraping by adding everything to a list.
+
+
 
